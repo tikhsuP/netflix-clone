@@ -1,5 +1,5 @@
 # Netflix Clone
-### An app that looks similar to NETFLIX
+### An app that looks similar to [NETFLIX](https://www.netflix.com)
 <hr/>
 
 ## Status: Under development
