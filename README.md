@@ -2,6 +2,7 @@
 ### An app that looks similar to [NETFLIX](https://www.netflix.com)
 <hr/>
 
+## Demo: Click [here](https://netflix-clone-tikhsup.web.app)
 ## Status: Under development
 
 ## Technologies Used:
