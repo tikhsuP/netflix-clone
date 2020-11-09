@@ -1,4 +1,8 @@
 # Netflix Clone
+### An app that looks similar to NETFLIX
+<hr/>
+
+## Status: Under development
 
 ## Technologies Used:
 <!-- <p align="left"> -->
